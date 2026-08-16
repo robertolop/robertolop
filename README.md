@@ -7,7 +7,7 @@
 ![Estrellas en GitHub](https://img.shields.io/github/stars/robertolop?style=social)
 <img src="https://komarev.com/ghpvc/?username=robertolop" alt="robertolop" />
 
-## Sobre mí :
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> Sobre mí :
 
 - 💻 Actualmente soy **Ingeniero de Software Junior**
 - 🎓 Estudios de Ingeniería en Sistemas Computacionales en [Universidad de Sonsonate](https://www.usonsonate.edu.sv/)
@@ -17,7 +17,7 @@
 
 <br>
 
-## Conecta conmigo ☕ :
+## <h2> Conecta conmigo  <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 
 <br>
 
@@ -26,7 +26,7 @@
 
 <br>
 
-## Tecnologías que manejo 🧑‍💻 :
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> Tecnologías que manejo:
 
 <br>
 
@@ -47,7 +47,7 @@
 
 <br>
 
-## Estadísticas de GitHub 📈 :
+## Estadísticas de GitHub<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> 
 
 <br>
 
@@ -56,7 +56,7 @@
 <br>
 
 
-## Gráfica de actividad 📊 :
+## Gráfica de actividad<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">
 
 <br>
 
