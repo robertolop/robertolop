@@ -14,6 +14,9 @@
   <a href="https://github.com/robertolop/portafolio" target="_blank">
     <img src="https://img.shields.io/badge/Mi_Portafolio-050F2C?style=for-the-badge&logo=github&logoColor=white" alt="Portafolio"/>
   </a>
+  <a href="https://www.instagram.com/roberto_l22" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
 </div>
 
 ##
