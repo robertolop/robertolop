@@ -20,13 +20,16 @@
 <br>
 
 
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> Sobre mí 
+## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px"></picture> Sobre mí
 
+Soy Ingeniero en Sistemas Computacionales, enfocado en el desarrollo de aplicaciones web y soluciones de software. Tengo experiencia práctica desarrollando proyectos con JavaScript, TypeScript, React, Node.js, Express y Java, así como trabajando con bases de datos MySQL.
 
-Soy Ingeniero en Sistemas Computacionales (Universidad de Sonsonate) enfocado en el desarrollo de aplicaciones web y arquitecturas de software eficientes. Tengo experiencia construyendo APIs y lógica de negocio utilizando el ecosistema de JavaScript/TypeScript/React (Node.js, Express) y Java, gestionando datos con MySQL. Me destaco por mi capacidad analítica para resolver problemas.
+Me interesa seguir creciendo como desarrollador, aplicar buenas prácticas de ingeniería de software y participar en proyectos donde pueda aportar mis conocimientos y continuar desarrollándome profesionalmente.
 
-- 💼 **Estado actual:** Disponible para integrarme a tiempo completo en un equipo de desarrollo.
-- 🚀 **Enfoque actual:** Profundizando en buenas prácticas de ingeniería de software y arquitecturas limpias.
+- 💼 **Perfil:** Ingeniero de Software Junior
+- 🚀 **Enfoque:** Desarrollo Web y Desarrollo de Software
+- 🌎 **Ubicación:** El Salvador
+- 🔎 **Disponibilidad:** Abierto a oportunidades profesionales
 ## 
 <br>
 
