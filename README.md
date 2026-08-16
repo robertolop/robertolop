@@ -47,20 +47,6 @@ Me interesa seguir creciendo como desarrollador, aplicar buenas prácticas de in
 
 ##
 <br>
-
-## 🎯 Enfoque profesional
-
-Actualmente me enfoco en seguir fortaleciendo mis conocimientos en:
-
-- Desarrollo de aplicaciones web
-- Diseño y consumo de APIs REST
-- Buenas prácticas de ingeniería de software
-- Arquitectura y organización de aplicaciones
-- Bases de datos relacionales
-- Control de versiones con Git y GitHub
-
-##
-<br>
   
 ## Estadísticas de GitHub<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> 
  
