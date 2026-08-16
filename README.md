@@ -11,8 +11,8 @@
   <a href="mailto:roberto.arevalo.456@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="URL_DE_TU_PORTAFOLIO" target="_blank">
-    <img src="https://img.shields.io/badge/Mi_Portafolio-050F2C?style=for-the-badge&logo=web&logoColor=white" alt="Portafolio"/>
+  <a href="https://github.com/robertolop/portafolio" target="_blank">
+    <img src="https://img.shields.io/badge/Mi_Portafolio-050F2C?style=for-the-badge&logo=github&logoColor=white" alt="Portafolio"/>
   </a>
 </div> 
 
@@ -44,7 +44,7 @@ Me interesa seguir creciendo como desarrollador, aplicar buenas prácticas de in
 <img src="https://img.icons8.com/color/48/000000/nodejs.png" title="Node.js"/> <img src="https://img.icons8.com/color/48/000000/express-js.png" title="Express.js"/> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png" title="Java"/> <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" title="MySQL"/> 
 
 **Herramientas:**  
-<img src="https://img.icons8.com/color/48/000000/git.png" title="Git"/> <img src="https://img.icons8.com/color/48/000000/github--v1.png" title="GitHub"/> <img src="https://img.icons8.com/color/48/000000/npm.png" title="npm"/> <img src="https://skillicons.dev/icons?i=wordpress" alt="WordPress" width="48" height="48"/>
+<img src="https://img.icons8.com/color/48/000000/git.png" title="Git"/> <img src="https://img.icons8.com/color/48/000000/github--v1.png" title="GitHub"/> <img src="https://img.icons8.com/color/48/000000/npm.png" title="npm"/> <img src="https://skillicons.dev/icons?i=wordpress" alt="WordPress" width="48" height="48"/> 
 ##
 <br>
   
