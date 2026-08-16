@@ -14,7 +14,7 @@
   <a href="https://github.com/robertolop/portafolio" target="_blank">
     <img src="https://img.shields.io/badge/Mi_Portafolio-050F2C?style=for-the-badge&logo=github&logoColor=white" alt="Portafolio"/>
   </a>
-</div> 
+</div>
 
 ##
 <br>
