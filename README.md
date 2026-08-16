@@ -17,15 +17,6 @@
 
 <br>
 
-## <h2> Conecta conmigo  <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
-
-<br>
-
-[![LinkedIn](https://img.icons8.com/fluency/48/000000/linkedin.png "LinkedIn")](https://www.linkedin.com/in/roberto-lopez-b31898394)
-[![Correo](https://img.icons8.com/fluency/48/000000/apple-mail.png "Correo")](mailto:roberto.arevalo.456@gmail.com)
-
-<br>
-
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> Tecnologías que manejo:
 
 <br>
@@ -44,6 +35,13 @@
 <img src="https://skillicons.dev/icons?i=wordpress" alt="WordPress" width="48" height="48"/>
 ![MySQL Server](https://img.shields.io/badge/MySQL%20Server-4479A1?style=flat-square&logo=mysql&logoColor=white)
 <img src="https://img.icons8.com/color/48/000000/vite.png" title="Vite"/>
+
+## <h2> Conecta conmigo  <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
+
+<br>
+
+[![LinkedIn](https://img.icons8.com/fluency/48/000000/linkedin.png "LinkedIn")](https://www.linkedin.com/in/roberto-lopez-b31898394)
+[![Correo](https://img.icons8.com/fluency/48/000000/apple-mail.png "Correo")](mailto:roberto.arevalo.456@gmail.com)
 
 <br>
 
