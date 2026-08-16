@@ -14,18 +14,19 @@
   <a href="URL_DE_TU_PORTAFOLIO" target="_blank">
     <img src="https://img.shields.io/badge/Mi_Portafolio-050F2C?style=for-the-badge&logo=web&logoColor=white" alt="Portafolio"/>
   </a>
-</div>
+</div> 
 
+##
 <br>
 
 
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> Sobre mí :
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> Sobre mí 
 
-- 💻 Actualmente soy **Ingeniero de Software Junior**
-- 🎓 Estudios de Ingeniería en Sistemas Computacionales en [Universidad de Sonsonate](https://www.usonsonate.edu.sv/)
-- 🗂️ Mi [Portafolio](https://github.com/robertolop/portafolio)
-- 🏡 Vivo en **El Salvador**
-- ⚡ **Datos curiosos** : ☕ 🎮 🚀
+
+Soy Ingeniero en Sistemas Computacionales (Universidad de Sonsonate) enfocado en el desarrollo de aplicaciones web y arquitecturas de software eficientes. Tengo experiencia construyendo APIs y lógica de negocio utilizando el ecosistema de JavaScript/TypeScript (Node.js, Express) y Java, gestionando datos con MySQL. Me destaco por mi capacidad analítica para resolver problemas complejos.
+
+- 💼 **Estado actual:** Disponible para integrarme a tiempo completo en un equipo de desarrollo.
+- 🚀 **Enfoque actual:** Profundizando en buenas prácticas de ingeniería de software y arquitecturas limpias.
 ## 
 <br>
 
