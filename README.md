@@ -2,10 +2,22 @@
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
 </div>
 <h1 align="center">Hola 👋, soy Roberto Lopez</h1>
+<h3 align="center">Ingeniero en Sistemas Computacionales | Desarrollador de Software</h3>
 
-![Seguidores en GitHub](https://img.shields.io/github/followers/robertolop?style=social)
-![Estrellas en GitHub](https://img.shields.io/github/stars/robertolop?style=social)
-<img src="https://komarev.com/ghpvc/?username=robertolop" alt="robertolop" />
+<div align="center">
+  <a href="https://www.linkedin.com/in/roberto-lopez-b31898394" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:roberto.arevalo.456@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="URL_DE_TU_PORTAFOLIO" target="_blank">
+    <img src="https://img.shields.io/badge/Mi_Portafolio-050F2C?style=for-the-badge&logo=web&logoColor=white" alt="Portafolio"/>
+  </a>
+</div>
+
+<br>
+
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> Sobre mí :
 
@@ -29,16 +41,9 @@
 
 **Herramientas:**  
 <img src="https://img.icons8.com/color/48/000000/git.png" title="Git"/> <img src="https://img.icons8.com/color/48/000000/github--v1.png" title="GitHub"/> <img src="https://img.icons8.com/color/48/000000/npm.png" title="npm"/> <img src="https://skillicons.dev/icons?i=wordpress" alt="WordPress" width="48" height="48"/>
-
-
-## <h2> Conecta conmigo  <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
-
+##
 <br>
 
-[![LinkedIn](https://img.icons8.com/fluency/48/000000/linkedin.png "LinkedIn")](https://www.linkedin.com/in/roberto-lopez-b31898394)
-[![Correo](https://img.icons8.com/fluency/48/000000/apple-mail.png "Correo")](mailto:roberto.arevalo.456@gmail.com)
-
-<br>
 
 ## Estadísticas de GitHub<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> 
 
