@@ -23,7 +23,7 @@
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> Sobre mí 
 
 
-Soy Ingeniero en Sistemas Computacionales (Universidad de Sonsonate) enfocado en el desarrollo de aplicaciones web y arquitecturas de software eficientes. Tengo experiencia construyendo APIs y lógica de negocio utilizando el ecosistema de JavaScript/TypeScript (Node.js, Express) y Java, gestionando datos con MySQL. Me destaco por mi capacidad analítica para resolver problemas complejos.
+Soy Ingeniero en Sistemas Computacionales (Universidad de Sonsonate) enfocado en el desarrollo de aplicaciones web y arquitecturas de software eficientes. Tengo experiencia construyendo APIs y lógica de negocio utilizando el ecosistema de JavaScript/TypeScript/React (Node.js, Express) y Java, gestionando datos con MySQL. Me destaco por mi capacidad analítica para resolver problemas.
 
 - 💼 **Estado actual:** Disponible para integrarme a tiempo completo en un equipo de desarrollo.
 - 🚀 **Enfoque actual:** Profundizando en buenas prácticas de ingeniería de software y arquitecturas limpias.
@@ -44,10 +44,9 @@ Soy Ingeniero en Sistemas Computacionales (Universidad de Sonsonate) enfocado en
 <img src="https://img.icons8.com/color/48/000000/git.png" title="Git"/> <img src="https://img.icons8.com/color/48/000000/github--v1.png" title="GitHub"/> <img src="https://img.icons8.com/color/48/000000/npm.png" title="npm"/> <img src="https://skillicons.dev/icons?i=wordpress" alt="WordPress" width="48" height="48"/>
 ##
 <br>
-
-
+  
 ## Estadísticas de GitHub<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> 
-
+ 
 <br>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=robertolop&theme=algolia&date_format=M%20j%5B%2C%20Y%5D&locale=es)](https://git.io/streak-stats)
