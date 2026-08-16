@@ -44,6 +44,21 @@ Me interesa seguir creciendo como desarrollador, aplicar buenas prácticas de in
 
 **Herramientas:**  
 <img src="https://img.icons8.com/color/48/000000/git.png" title="Git"/> <img src="https://img.icons8.com/color/48/000000/github--v1.png" title="GitHub"/> <img src="https://img.icons8.com/color/48/000000/npm.png" title="npm"/> <img src="https://skillicons.dev/icons?i=wordpress" alt="WordPress" width="48" height="48"/> 
+
+##
+<br>
+
+## 🎯 Enfoque profesional
+
+Actualmente me enfoco en seguir fortaleciendo mis conocimientos en:
+
+- Desarrollo de aplicaciones web
+- Diseño y consumo de APIs REST
+- Buenas prácticas de ingeniería de software
+- Arquitectura y organización de aplicaciones
+- Bases de datos relacionales
+- Control de versiones con Git y GitHub
+
 ##
 <br>
   
