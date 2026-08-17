@@ -33,9 +33,9 @@ Me interesa seguir creciendo como desarrollador, aplicar buenas prácticas de in
 ##
 <br>
 
-## 💼 Portafolio
+## 🌐 Portafolio
 
-Mis principales proyectos y desarrollos::
+Mis principales proyectos y desarrollos:
 
 <div align="center">
   <a href="https://github.com/robertolop/portafolio" target="_blank">
@@ -51,7 +51,7 @@ Mis principales proyectos y desarrollos::
 <br>
 
 **Frontend:**  
-<img src="https://img.icons8.com/color/48/000000/html-5--v1.png" title="HTML5"/> <img src="https://img.icons8.com/color/48/000000/css3.png" title="CSS3"/> <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" title="JavaScript"/> <img src="https://img.icons8.com/color/48/000000/typescript.png" title="TypeScript"/> <img src="https://img.icons8.com/office/48/000000/react.png" title="React"/> <img src="https://img.icons8.com/color/48/000000/vite.png" title="Vite"/> 
+<img src="https://img.icons8.com/color/48/000000/html-5--v1.png" title="HTML5"/> <img src="https://img.icons8.com/color/48/000000/css3.png" title="CSS3"/> <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" title="JavaScript"/> <img src="https://img.icons8.com/color/48/000000/typescript.png" title="TypeScript"/> <img src="https://img.icons8.com/office/48/000000/react.png" title="React"/> <img src="https://img.icons8.com/color/48/000000/vite.png" title="Vite"/>
 
 **Backend & Bases de Datos:**  
 <img src="https://img.icons8.com/color/48/000000/nodejs.png" title="Node.js"/> <img src="https://img.icons8.com/color/48/000000/express-js.png" title="Express.js"/> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png" title="Java"/> <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" title="MySQL"/> <img src="https://img.icons8.com/color/48/000000/c-programming.png" title="C"/>
@@ -69,6 +69,13 @@ Mis principales proyectos y desarrollos::
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=robertolop&theme=algolia&date_format=M%20j%5B%2C%20Y%5D&locale=es)](https://git.io/streak-stats)
 
 <br>
+
+
+## Gráfica de actividad<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">
+
+<br>
+
+[![Actividad](https://github-readme-activity-graph.vercel.app/graph?username=robertolop&bg_color=050F2C&color=ffffff&line=00E676&point=ffffff&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 Creado por [robertolop](https://github.com/robertolop) · Última actualización: 2026
