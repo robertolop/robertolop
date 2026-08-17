@@ -11,9 +11,6 @@
   <a href="mailto:roberto.arevalo.456@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://github.com/robertolop/portafolio" target="_blank">
-    <img src="https://img.shields.io/badge/Mi_Portafolio-050F2C?style=for-the-badge&logo=github&logoColor=white" alt="Portafolio"/>
-  </a>
   <a href="https://www.instagram.com/roberto_l22" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
@@ -32,10 +29,24 @@ Me interesa seguir creciendo como desarrollador, aplicar buenas prácticas de in
 - 💼 **Perfil:** Ingeniero de Software Junior
 - 🚀 **Enfoque:** Profundizando en buenas prácticas de ingeniería de software y arquitecturas limpias.
 - 🔎 **Disponibilidad:** Abierto a oportunidades profesionales
-## 
+
+##
 <br>
 
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> Tecnologías que manejo:
+## 🌐 Portafolio
+
+Mis principales proyectos y desarrollos::
+
+<div align="center">
+  <a href="https://github.com/robertolop/portafolio" target="_blank">
+    <img src="https://img.shields.io/badge/Ver_Mi_Portafolio-050F2C?style=for-the-badge&logo=github&logoColor=white" alt="Ver Mi Portafolio"/>
+  </a>
+</div>
+
+##
+<br>
+
+## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px"></picture> Tecnologías que manejo:
 
 <br>
 
