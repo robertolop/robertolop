@@ -33,7 +33,7 @@ Me interesa seguir creciendo como desarrollador, aplicar buenas prácticas de in
 ##
 <br>
 
-## 🌐 Portafolio
+## 💼 Portafolio
 
 Mis principales proyectos y desarrollos::
 
