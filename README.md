@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
 </div>
-<h1 align="center">Hola 👋, soy Roberto Lopez</h1>
+<h1 align="center">Hola <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> soy Roberto Lopez
 <h3 align="center">Ingeniero en Sistemas Computacionales | Desarrollador de Software</h3>
 
 <div align="center">
@@ -33,7 +33,7 @@ Me interesa seguir creciendo como desarrollador, aplicar buenas prácticas de in
 ##
 <br>
 
-## 🌐 Portafolio
+## 💼 Portafolio
 
 Mis principales proyectos y desarrollos:
 
