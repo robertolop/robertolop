@@ -51,10 +51,10 @@ Mis principales proyectos y desarrollos::
 <br>
 
 **Frontend:**  
-<img src="https://img.icons8.com/color/48/000000/html-5--v1.png" title="HTML5"/> <img src="https://img.icons8.com/color/48/000000/css3.png" title="CSS3"/> <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" title="JavaScript"/> <img src="https://img.icons8.com/color/48/000000/typescript.png" title="TypeScript"/> <img src="https://img.icons8.com/office/48/000000/react.png" title="React"/> <img src="https://img.icons8.com/color/48/000000/vite.png" title="Vite"/>
+<img src="https://img.icons8.com/color/48/000000/html-5--v1.png" title="HTML5"/> <img src="https://img.icons8.com/color/48/000000/css3.png" title="CSS3"/> <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" title="JavaScript"/> <img src="https://img.icons8.com/color/48/000000/typescript.png" title="TypeScript"/> <img src="https://img.icons8.com/office/48/000000/react.png" title="React"/> <img src="https://img.icons8.com/color/48/000000/vite.png" title="Vite"/> 
 
 **Backend & Bases de Datos:**  
-<img src="https://img.icons8.com/color/48/000000/nodejs.png" title="Node.js"/> <img src="https://img.icons8.com/color/48/000000/express-js.png" title="Express.js"/> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png" title="Java"/> <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" title="MySQL"/> 
+<img src="https://img.icons8.com/color/48/000000/nodejs.png" title="Node.js"/> <img src="https://img.icons8.com/color/48/000000/express-js.png" title="Express.js"/> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png" title="Java"/> <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" title="MySQL"/> <img src="https://img.icons8.com/color/48/000000/c-programming.png" title="C"/>
 
 **Herramientas:**  
 <img src="https://img.icons8.com/color/48/000000/git.png" title="Git"/> <img src="https://img.icons8.com/color/48/000000/github--v1.png" title="GitHub"/> <img src="https://img.icons8.com/color/48/000000/npm.png" title="npm"/> <img src="https://skillicons.dev/icons?i=wordpress" alt="WordPress" width="48" height="48"/> 
