@@ -70,12 +70,5 @@ Mis principales proyectos y desarrollos::
 
 <br>
 
-
-## Gráfica de actividad<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">
-
-<br>
-
-[![Actividad](https://github-readme-activity-graph.vercel.app/graph?username=robertolop&bg_color=050F2C&color=ffffff&line=00E676&point=ffffff&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 ---
 Creado por [robertolop](https://github.com/robertolop) · Última actualización: 2026
