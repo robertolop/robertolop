@@ -27,7 +27,7 @@ Soy Ingeniero en Sistemas Computacionales, enfocado en el desarrollo de aplicaci
 Me interesa seguir creciendo como desarrollador, aplicar buenas prácticas de ingeniería de software y participar en proyectos donde pueda aportar mis conocimientos y continuar desarrollándome profesionalmente.
 
 - 💼 **Perfil:** Ingeniero de Software Junior
-- 🚀 **Enfoque:** Profundizando en buenas prácticas de ingeniería de software y arquitecturas limpias.
+- 🚀 **Enfoque actual:** Profundizando en buenas prácticas de ingeniería de software y arquitecturas limpias.
 - 🔎 **Disponibilidad:** Abierto a oportunidades profesionales
 
 ##
