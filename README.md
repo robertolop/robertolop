@@ -22,12 +22,14 @@
 
 ## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px"></picture> Sobre mí
 
-Soy Ingeniero en Sistemas Computacionales, enfocado en el desarrollo de aplicaciones web y soluciones de software. Tengo experiencia práctica desarrollando proyectos con JavaScript, TypeScript, React, Node.js, Express y Java, así como trabajando con bases de datos MySQL.
+Soy Ingeniero en Sistemas Computacionales enfocado en el desarrollo de aplicaciones web y soluciones de software. Tengo experiencia práctica en desarrollo full stack utilizando JavaScript, TypeScript, React, Node.js, Express y MySQL, además de experiencia en aplicaciones móviles con React Native y soluciones de comercio electrónico.
 
-Me interesa seguir creciendo como desarrollador, aplicar buenas prácticas de ingeniería de software y participar en proyectos donde pueda aportar mis conocimientos y continuar desarrollándome profesionalmente.
+He desarrollado proyectos que abarcan distintas etapas del desarrollo de software, desde el análisis de requerimientos y diseño de soluciones hasta el desarrollo, integración de APIs REST, gestión de bases de datos y documentación.
 
-- 💼 **Perfil:** Ingeniero de Software Junior
-- 🚀 **Enfoque actual:** Profundizando en buenas prácticas de ingeniería de software y arquitecturas limpias.
+Me interesa seguir creciendo profesionalmente, aplicar buenas prácticas de ingeniería de software y participar en proyectos donde pueda aportar mis conocimientos, resolver problemas y continuar desarrollándome como desarrollador de software.
+
+- 💼 **Perfil:** Ingeniero en Sistemas Computacionales | Desarrollador de Software
+- 🚀 **Enfoque actual:**  Desarrollo full stack, APIs REST, bases de datos y buenas prácticas de ingeniería de software.
 - 🔎 **Disponibilidad:** Abierto a oportunidades profesionales
 
 ##
